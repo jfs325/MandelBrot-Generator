@@ -24,18 +24,23 @@ e0.bmp, e1.bmp, e2.bmp, e3.bmp, e4.bmp
 Here are the snapshots created for each of these commands:
 
 e0.bmp:
+
 <img width="445" alt="image" src="https://github.com/jfs325/MandelBrot-Generator/assets/73313734/cee57ca6-5d99-4cbb-9120-2911c19e9cea">
 
 e1.bmp:
+
 <img width="248" alt="image" src="https://github.com/jfs325/MandelBrot-Generator/assets/73313734/3481f860-9741-499d-b5b8-5b7c83f8107c">
 
 e2.bmp:
+
 <img width="444" alt="image" src="https://github.com/jfs325/MandelBrot-Generator/assets/73313734/85eeb244-f93f-43af-8827-94233983f202">
 
 e3.bmp:
+
 <img width="897" alt="image" src="https://github.com/jfs325/MandelBrot-Generator/assets/73313734/b548f7c7-b67b-40a5-af39-4b60afbda285">
 
 e4.bmp:
+
 <img width="443" alt="image" src="https://github.com/jfs325/MandelBrot-Generator/assets/73313734/eec6c135-f165-49d8-83c5-1542e935ec70">
 
 
